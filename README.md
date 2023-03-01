@@ -6,3 +6,5 @@ Steam Players Example: C:\Program Files (x86)\Steam\steamapps\common\UNDERTALE
 
 
 GOG (Good Old Games) Example: C:/GOG/UNDERTALE
+
+(https://user-images.githubusercontent.com/107813557/222113844-db1002f0-bc1e-4ef3-b66f-f982ebf0213c.PNG)
