@@ -1,4 +1,4 @@
---Made by NICKISBAD on github. Changes your UNDERTALE controls from the arrow keys to WASD.
+; Version 1.0
 
 Place the .exe file in your UNDERTALE.exe's directory and Run the .Exe
 
@@ -23,6 +23,8 @@ https://github.com/NICKISBAD/Undertale-Controls-Tweaker/releases/download/1.0/Ma
 ABOVE IS OUTDATED
 
 NEWER METHOD TO USE IS BELOW
+
+; Version 1.1
 
 Install the .zip folder with the file executable located in it.
 
