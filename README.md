@@ -27,8 +27,11 @@ NEWER METHOD TO USE IS BELOW
 ; Version 1.1
 
 Install the .zip folder with the file executable located in it.
+https://user-images.githubusercontent.com/107813557/229262954-4689f046-bbd6-429e-ab31-25eea1657e4c.PNG
 
 Once Installed, Extract the Folder and Put the .exe file on your desktop.
+https://user-images.githubusercontent.com/107813557/229263019-c23f3e0c-abde-486f-a164-e3b7f919a7dc.PNG
+
 
 Open your Undertale.exe application and launch the .exe
 
