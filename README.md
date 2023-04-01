@@ -28,7 +28,7 @@ NEWER METHOD TO USE IS BELOW
 ; Version 1.1
 
 Install the .zip folder with the file executable located in it.
-https://user-images.githubusercontent.com/107813557/229262954-4689f046-bbd6-429e-ab31-25eea1657e4c.PNG
+![examplei](https://user-images.githubusercontent.com/107813557/229262954-4689f046-bbd6-429e-ab31-25eea1657e4c.PNG)
 
 Once Installed, Extract the Folder and Put the .exe file on your desktop.
 ![examplea](https://user-images.githubusercontent.com/107813557/229263077-05b89270-a22b-413e-b3e9-928a484c7074.PNG)
