@@ -1,4 +1,4 @@
-![examplea](https://user-images.githubusercontent.com/107813557/229263077-05b89270-a22b-413e-b3e9-928a484c7074.PNG)
+
 ; Version 1.0
 
 Place the .exe file in your UNDERTALE.exe's directory and Run the .Exe
@@ -31,7 +31,7 @@ Install the .zip folder with the file executable located in it.
 https://user-images.githubusercontent.com/107813557/229262954-4689f046-bbd6-429e-ab31-25eea1657e4c.PNG
 
 Once Installed, Extract the Folder and Put the .exe file on your desktop.
-https://user-images.githubusercontent.com/107813557/229263019-c23f3e0c-abde-486f-a164-e3b7f919a7dc.PNG
+![examplea](https://user-images.githubusercontent.com/107813557/229263077-05b89270-a22b-413e-b3e9-928a484c7074.PNG)
 
 
 Open your Undertale.exe application and launch the .exe
