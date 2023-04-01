@@ -1,3 +1,9 @@
+Info: Supports every OS that can run AHK and UNDERTALE
+
+This is a basic .ahk application i made out of boredom. It is made for the SOLE purpose to edit Undertale's keybinds because nobody uses arrow keys (Don't @ me if you do)
+
+
+
 
 ; Version 1.0
 
