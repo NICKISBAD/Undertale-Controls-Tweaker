@@ -19,3 +19,28 @@ Example
 or Use the Manual Closer which is a seperate file in the Release
 
 https://github.com/NICKISBAD/Undertale-Controls-Tweaker/releases/download/1.0/ManualCloser.exe
+
+ABOVE IS OUTDATED
+
+NEWER METHOD TO USE IS BELOW
+
+Install the .zip folder with the file executable located in it.
+
+Once Installed, Extract the Folder and Put the .exe file on your desktop.
+
+Open your Undertale.exe application and launch the .exe
+
+Your controls should be changed
+
+CONTROLS:
+
+w = Up
+S = Down
+A = Left
+D = Right
+
+RightMouseButton = x
+LeftMouseButton = z
+MiddleMouseButton = c
+
+ESC to close the app.
